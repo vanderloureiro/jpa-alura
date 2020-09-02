@@ -1,2 +1,7 @@
 /home/desenvolvedor8/Workspace/projeto-jpa/src/main/java/br/com/alura/jpa/testes/TesteCriaTabelas.java
+/home/desenvolvedor8/Workspace/projeto-jpa/src/main/java/br/com/alura/jpa/testes/CriaContaTeste.java
+/home/desenvolvedor8/Workspace/projeto-jpa/src/main/java/br/com/alura/jpa/modelo/TipoMovimentacao.java
+/home/desenvolvedor8/Workspace/projeto-jpa/src/main/java/br/com/alura/jpa/testes/EditarContaTeste.java
 /home/desenvolvedor8/Workspace/projeto-jpa/src/main/java/br/com/alura/jpa/modelo/Conta.java
+/home/desenvolvedor8/Workspace/projeto-jpa/src/main/java/br/com/alura/jpa/modelo/Movimentacao.java
+/home/desenvolvedor8/Workspace/projeto-jpa/src/main/java/br/com/alura/jpa/testes/TestaMovimentacao.java

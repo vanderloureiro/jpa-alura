@@ -1,2 +1,7 @@
 br/com/alura/jpa/modelo/Conta.class
 br/com/alura/jpa/testes/TesteCriaTabelas.class
+br/com/alura/jpa/modelo/TipoMovimentacao.class
+br/com/alura/jpa/testes/CriaContaTeste.class
+br/com/alura/jpa/modelo/Movimentacao.class
+br/com/alura/jpa/testes/EditarContaTeste.class
+br/com/alura/jpa/testes/TestaMovimentacao.class
